@@ -4,5 +4,5 @@
 - 🔭 Currently at [Oden Technologies](https://oden.io/) building a domain specific query language to enable compelling analytics and data science for manufacturers
 - 💻 Interested in databases, distributed systems, and programming languages
 - 10+ years of professional experience
-- Languages in order of proficiency: Go, Python, Java, C++, Rust, C#, JavaScript, Lua, Clojure, Zig, Fennel
+- Languages in order of proficiency: Go, Python, Java, C++, Rust, C#, JS/TS, Lua, Clojure, Zig, Fennel
 - Databases/storage: Postgres, Clickhouse, Timescale, Redis, FoundationDB, GCS, SQL Server
